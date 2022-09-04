@@ -1,8 +1,8 @@
 # Pixelate
 <br>
 It is a website that helps you tranform an image into pixel form. It is built using HTML, CSS and JavaScript.
-<br>
-Pixel It allows you to take an image and convert into pixel art. You can define the "pixel" size, create a pixel image using a color palette and also convert to a pixel grayscale image. <br>
+<br></br>
+Pixel It allows you to take an image and convert into pixel art. You can define the "pixel" size, create a pixel image using a color palette and also convert to a pixel grayscale image. <br></br>
 
 ![image](https://user-images.githubusercontent.com/73026322/188302428-0ba016c4-67c9-42cd-95c8-5c34acc44b38.png) <br>
 
